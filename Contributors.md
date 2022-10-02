@@ -370,7 +370,7 @@
 - [gjerman](https://github.com/gjerman)
 - [yangxizhe]
 - [anshul agrawal]
-- FirstName LastName
+- [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Dun](https://github.com/DundeeA)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
